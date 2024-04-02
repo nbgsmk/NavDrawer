@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "NavDraw"
-include(":app")
+include(":NavDrawer")
  
