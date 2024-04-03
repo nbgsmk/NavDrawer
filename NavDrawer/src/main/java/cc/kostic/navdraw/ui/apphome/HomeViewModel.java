@@ -1,4 +1,4 @@
-package cc.kostic.navdraw.ui.home;
+package cc.kostic.navdraw.ui.apphome;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

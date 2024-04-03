@@ -51,7 +51,8 @@ public class App extends AppCompatActivity {
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
-		getMenuInflater().inflate(R.menu.menu_toolbar, menu);
+		// ovaj menu se pojavljuje u SVIM fragmentima
+		getMenuInflater().inflate(R.menu.menu_app__toolbar, menu);
 		return true;
 	}
 
